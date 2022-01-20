@@ -1,6 +1,6 @@
 
 //Change this interval to your choice
-INTERVAL = 80;
+INTERVAL = 8;
 
 
 function start()
